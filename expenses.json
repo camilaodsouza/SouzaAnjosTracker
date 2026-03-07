@@ -1,0 +1,37 @@
+[
+  {
+    "description": "Lunch",
+    "amount": 70.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Breakfast",
+    "amount": 10.0,
+    "date": "2026-04-07"
+  },
+  {
+    "description": "Farmacy",
+    "amount": 15.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Groceries",
+    "amount": 70.0,
+    "date": "2026-06-07"
+  },
+  {
+    "description": "Make Up",
+    "amount": 46.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Make Up",
+    "amount": 0.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Dinner",
+    "amount": 30.0,
+    "date": "2026-03-07"
+  }
+]
