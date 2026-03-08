@@ -1,18 +1,8 @@
 [
   {
-    "description": "Lunch",
-    "amount": 70.0,
-    "date": "2026-03-07"
-  },
-  {
     "description": "Breakfast",
     "amount": 10.0,
     "date": "2026-04-07"
-  },
-  {
-    "description": "Farmacy",
-    "amount": 15.0,
-    "date": "2026-03-07"
   },
   {
     "description": "Groceries",
@@ -32,6 +22,241 @@
   {
     "description": "Dinner",
     "amount": 30.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "unica",
+    "amount": 0.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Teste 3",
+    "amount": 50.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Roupa cara",
+    "amount": 1000.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Vestido Floral",
+    "amount": 500.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Vestido Floral",
+    "amount": 500.0,
+    "date": "2026-04-07"
+  },
+  {
+    "description": "Vestido Floral",
+    "amount": 500.0,
+    "date": "2026-05-07"
+  },
+  {
+    "description": "Vestido Floral",
+    "amount": 500.0,
+    "date": "2026-06-07"
+  },
+  {
+    "description": "Vestido Floral",
+    "amount": 500.0,
+    "date": "2026-07-07"
+  },
+  {
+    "description": "Vestido Floral",
+    "amount": 500.0,
+    "date": "2026-08-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Perfume Caro",
+    "amount": 150.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Perfume Caro",
+    "amount": 150.0,
+    "date": "2026-04-07"
+  },
+  {
+    "description": "Perfume Caro",
+    "amount": 150.0,
+    "date": "2026-05-07"
+  },
+  {
+    "description": "Carolina Herrera",
+    "amount": 650.0,
+    "date": "2026-01-01"
+  },
+  {
+    "description": "Carolina Herrera",
+    "amount": 650.0,
+    "date": "2026-02-01"
+  },
+  {
+    "description": "Carolina Herrera",
+    "amount": 650.0,
+    "date": "2026-03-01"
+  },
+  {
+    "description": "Carolina Herrera",
+    "amount": 650.0,
+    "date": "2026-04-01"
+  },
+  {
+    "description": "Carolina Herrera",
+    "amount": 650.0,
+    "date": "2026-05-01"
+  },
+  {
+    "description": "Carolina Herrera",
+    "amount": 650.0,
+    "date": "2026-06-01"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2026-04-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2026-05-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2026-06-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2026-07-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2026-08-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2026-09-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2026-10-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2026-11-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2026-12-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2027-01-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2027-02-07"
+  },
+  {
+    "description": "Netflix",
+    "amount": 19.9,
+    "date": "2027-03-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2026-04-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2026-05-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2026-06-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2026-07-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2026-08-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2026-09-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2026-10-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2026-11-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2026-12-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2027-01-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2027-02-07"
+  },
+  {
+    "description": "Apple Play",
+    "amount": 10.0,
+    "date": "2027-03-07"
+  },
+  {
+    "description": "Teste",
+    "amount": 0.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Teste",
+    "amount": 0.0,
+    "date": "2026-03-07"
+  },
+  {
+    "description": "Teste2",
+    "amount": 0.0,
     "date": "2026-03-07"
   }
 ]
